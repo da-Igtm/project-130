@@ -1,0 +1,17 @@
+.heading_with_note{
+    box-shadow: 4px 6px 20px indianred;
+    margin: 4px;
+    width:100%;
+}
+#song_name{
+box-shadow: 12px 13px 20px royalblue;
+font-size: 12px;
+padding: 20px;
+margin: 5px;
+}
+canvas{
+    border: 24px solid darkcyan;
+    box-shadow: 12px 12px 24px khaki;
+    padding: 32px;
+    margin: 10px;
+}
